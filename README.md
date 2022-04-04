@@ -4,9 +4,9 @@ Hello,
 
 I am a CS student of batch 2021/2022.
 
-This is the respository for the course **WIA1002 Data Structure** which is one of the programming course in Faculty of Computer Science and Information Technology, University of Malaya.
+This is the repository for the course **WIA1002 Data Structure** which is one of the programming course in Faculty of Computer Science and Information Technology, University of Malaya.
 
-I would share the solutions of the tutorial and lab in this respository. 
+I would share the solutions of the tutorial and lab in this repository. 
 
 Kindly make a pull request if there's any error in the codes.
 
