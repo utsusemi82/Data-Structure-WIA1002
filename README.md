@@ -8,20 +8,6 @@ This is the repository for the course **WIA1002 Data Structure** which is one of
 
 I would share the solutions of the tutorial and lab in this repository. 
 
-Kindly make a pull request if there's any error in the codes.
-
----------------------------------------------
-# Tutorial
-
-* [Generics](https://github.com/utsusemi82/Data-Structure-WIA1002/tree/master/src/GenericTutorial)
-
----------------------------------------------
-# Lab
-
-* [Generics](https://github.com/utsusemi82/Data-Structure-WIA1002/tree/master/src/GenericLab)
-
----------------------------------------------
-
 # Thank you!
 
 
